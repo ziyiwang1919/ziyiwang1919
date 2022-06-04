@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ziyi
+- 👋 Hi, I’m Ziyi!
 - 👀 I’m interested in data science and want to apply data skills for international development, especially in the arena of environment, energy, and technology.
 - 🌱 I’m currently learning global policy and data science.
 - 💞️ I love writing and storytelling, and I believe data science will be a powerful tool to solve real-world puzzles.
